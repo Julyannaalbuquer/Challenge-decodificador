@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="imagem/png" href="Icone1.png">
+    <title>Decodificador de palavras</title>
+</head>
+
+<body>
+    <div class="estrutura">
+        <header>
+            <img class="logoalura" src="Vector.png" alt="Logo da Alura">
+        </header>
+
+        <main>
+            <section>
+                <textarea class="caixa-criptografa" id="digita-texto" cols="30" rows="10"
+                    placeholder="Digite seu texto"></textarea>
+
+                <div class="icone">
+                    <img src="icone.png" alt="Um incone de simbolto de exclamação.">
+                </div>
+
+                <div class="butoes">
+                    <button onclick="criptografar()" class="btn-criptografar">Criptografar</button>
+                    <button onclick="descriptografar()" class="btn-descriptografar">Descriptografar</button>
+                </div>
+            </section>
+
+            <section>
+                <textarea disabled class="caixa-descriptografa" id="saida-texto" cols="20" rows="10"></textarea>
+
+                <div id="mostra-conteudo">
+                    <img class="img-ilustração" src="boneco.png" alt="Garoto com lupa na mão">
+
+
+                    <div class="mensagem">
+                        <p> Nenhuma mensagem encontrada</p>
+                        <p class="p2"> Digite um texto que você deseja criptografar ou descriptografar.</p>
+                    </div>
+                </div>
+
+                <div id="oculta-conteudo">
+                    <button onclick="CopiaCriptografia()" class="btn-copiar" id="copiar">Copiar</button>
+                </div>
+
+            </section>
+        </main>
+
+        <footer>
+            <div class="rodape">
+                <p>&#169; Desenvolvido por Julyanna Albuquerque | Challenge ONE - Oracle + Alura T4
+                    <a class="rede-social" href="https://github.com/Julyannaalbuquer" target=_blank><img
+                            src="github.png" target="_blank" height="20" alt="GitHub"></a>
+                </p>
+
+
+            </div>
+        </footer>
+
+
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
