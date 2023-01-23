@@ -178,12 +178,6 @@ main{
     color: #000;
 }
 
-.rede-social {
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-around;
-}    
-
 .rede-social:hover {
     height: 30px;
     border: none;
