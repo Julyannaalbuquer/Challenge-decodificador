@@ -9,7 +9,7 @@ O projeto faz parte da primeira fase da seleção ONE (Oracle Next Education) em
 
 ### 🔐Sobre a criptografia:
 #### Chaves da criptografia!
-- ``` A letra "e" é convertida para "enter".```
+- ```A letra "e" é convertida para "enter".```
 - ```A letra "i" é convertida para "imes".```
 - ```A letra "a" é convertida para "ai".```
 - ```A letra "o" é convertida para "ober".```
