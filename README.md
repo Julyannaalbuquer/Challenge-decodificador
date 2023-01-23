@@ -24,3 +24,4 @@ O projeto faz parte da primeira fase da seleção ONE (Oracle Next Education) em
 - [x] O resultado deve ser exibido na tela.
 
 <h2>🖥Preview da tela:</h2>
+<img src="./img/tela.png">
