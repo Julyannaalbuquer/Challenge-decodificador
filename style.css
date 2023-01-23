@@ -168,19 +168,23 @@ main{
     text-decoration: none;
 }
 
-a {
+.autoria {
+    padding-top: 15px;
+    font-size: 1.0rem;
+    height: 40px;
     color: #000;
-
-}
-
-.rodape a:hover {
-    color: #c78c19;
-    
-    
 }
 
 .rede-social {
-    height: 60px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}    
+
+.rede-social:hover {
+    height: 30px;
     border: none;
     background-color: rgba(236, 214, 190, 0.53);
+    border-radius: 10px;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25); 
 }
