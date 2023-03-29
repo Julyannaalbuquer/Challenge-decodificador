@@ -5,7 +5,7 @@
  </p>
  
 <h2>📌Sobre o projeto:</h2>
-O projeto faz parte da primeira fase da seleção ONE (Oracle Next Education) em parceria com a Alura e possui como objetivo a criptografia de textos. Para melhor visualização, o projeto encontra-se em deploy <a href="https://julyannaalbuquer.github.io/challenge-decodificador/">aqui</a> 
+O projeto faz parte da primeira fase da seleção ONE (Oracle Next Education) em parceria com a Alura e possui como objetivo a criptografia de textos. Para melhor visualização, o projeto encontra-se em deploy <a href="https://julyannaalbuquer.github.io/Challenge-decodificador/">aqui</a> 
 
 ### 🔐Sobre a criptografia:
 #### Chaves da criptografia!
