@@ -70,7 +70,6 @@ function descriptografar() {
 }
 
 //Função para copiar a mensagem criptografada
-
 function CopiaCriptografia() {
 
     var conteudoVAzio = document.getElementById('saida-texto').value;
