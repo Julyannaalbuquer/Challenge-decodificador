@@ -230,7 +230,6 @@ main{
         margin-left: 20px;
     }
 
-    /* Centralizando e organizando o conteúdo dentro da caixa descriptografa */
     #mostra-conteudo {
         display: flex;
         flex-direction: column;
@@ -238,7 +237,6 @@ main{
         position: relative;
     }
 
-    /* Ajustando a imagem e texto para ficarem juntos, centralizados acima do textarea */
     .img-ilustração {
         position: static;
         width: 300px;
@@ -271,7 +269,7 @@ main{
 
     .btn-copiar {
         margin-top: 20px;
-        margin-right: 100px;
+        margin-right: 105px;
         position: static;
     }
 
