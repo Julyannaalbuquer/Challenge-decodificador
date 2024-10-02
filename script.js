@@ -3,7 +3,7 @@ var conteudo;
 var x = document.getElementById('mostra-conteudo');
 var y = document.getElementById('oculta-conteudo');
 
-
+// Funcão verifica se tem texto no input
 function temTexto() {
 
     var conteudo = document.getElementById('digita-texto').value;
@@ -19,7 +19,7 @@ function temTexto() {
 }
 
 
-//validação de caracteres especiais e campo vázio
+//Validação de caracteres especiais e campo vázio
 function ValidarConteudo() {
 
     var conteudo = document.getElementById('digita-texto').value;
